@@ -1,1 +1,1 @@
-# Java-mamma
+Dummy template
